@@ -26,6 +26,6 @@ $ pip install uvicorn
 $ uvicorn main:app --reload
 ```
 
-Server is runing on http://localhost:8000
-Swagger api document http://localhost:8000/doc
-Redoc api document http://localhost:8000/redoc
+- Server is runing on http://localhost:8000
+- Swagger api document http://localhost:8000/doc
+- Redoc api document http://localhost:8000/redoc
